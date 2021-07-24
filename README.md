@@ -4,9 +4,9 @@
 
 The task of this project is to classify an image into one of ten classes using CIFAR- 10
 dataset for this classification task. Two approaches implemented are:
-1. Supervised Learning Approach (SLA):Build a Neural Network Classifier (NN)
+I. Supervised Learning Approach (SLA):Build a Neural Network Classifier (NN)
 with one hidden layer to be trained and tested on CIFAR-10 dataset.
-2. Unsupervised Learning Approach (USLA): USLA is a two-step learning approach
+II. Unsupervised Learning Approach (USLA): USLA is a two-step learning approach
 for image classification.
 (a) STEP 1: Extract image features using a Convolutional AutoEncoder (ConvAE) forCIFAR- 10 dataset using an open-source neural-network library,
 Keras.
