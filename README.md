@@ -42,7 +42,9 @@ of a classification
 accuracy
 
 Step 2: Data Loading
+
 We use tensorflow.keras.datasets.cifar10.load_data() to load the CIFAR-10 dataset into
 Training and Testing data.
+
 
 Implement SLA and USLA. Both implementation are explained in detail in the report.pdf in the repo with analysis and comparison of model paramters and results of both approaches
