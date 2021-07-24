@@ -47,4 +47,4 @@ We use tensorflow.keras.datasets.cifar10.load_data() to load the CIFAR-10 datase
 Training and Testing data.
 
 
-Implement SLA and USLA. Both implementations are explained in detail in the report.pdf in the repo with analysis and comparison of model paramters and results of both approaches
+Implement SLA and USLA. Both implementations are explained in detail in report.pdf inside the repo with analysis and comparison of model parameters and results of both approaches.
