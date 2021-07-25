@@ -3,7 +3,7 @@
 
 1. Task Given
 
-The task of this project is to classify an image into one of ten classes using CIFAR- 10
+The task is to classify an image into one of ten classes using CIFAR- 10
 dataset for this classification task. Two approaches implemented are:
 
 I. Supervised Learning Approach (SLA):Build a Neural Network Classifier (NN)
