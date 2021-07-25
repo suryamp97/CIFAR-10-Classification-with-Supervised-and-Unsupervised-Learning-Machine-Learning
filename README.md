@@ -1,5 +1,6 @@
 # CIFAR-10-Classification-with-Supervised-and-Unsupervised-Learning
 
+
 1. Task Given
 
 The task of this project is to classify an image into one of ten classes using CIFAR- 10
